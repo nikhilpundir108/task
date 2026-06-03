@@ -32,7 +32,9 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/public/hero.png",
+        url: "/hero.png",
+        width: 1560,
+        height: 530, 
       },
     ],
   },
@@ -43,7 +45,9 @@ export const metadata: Metadata = {
       "We match by stack, not by lowest bid — get invited to remote full-stack roles that fit your toolchain.",
     images: [
       {
-        url: "/public/hero.png",
+        url: "/hero.png",
+        width: 1560,
+        height: 530,
       },
     ],
   },
